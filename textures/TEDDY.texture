@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "TEDDY",
+  "identifier": "texture:234367-1fab029f-9490-49f3-ab12-67b98ecd41d0",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a0d6c4907bc6283e01306a4156d1b8e3",
+  "assetLocator": "textures/TEDDY.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:234597-1fab029f-9490-49f3-ab12-67b98ecd41d0",
+    "textureExportConfig:234715-1fab029f-9490-49f3-ab12-67b98ecd41d0",
+    "textureExportConfig:234835-1fab029f-9490-49f3-ab12-67b98ecd41d0"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a0d6c4907bc6283e01306a4156d1b8e3",
+      "colorCount": 23876,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.946487542327202,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}

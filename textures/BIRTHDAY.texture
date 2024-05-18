@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "BIRTHDAY",
+  "identifier": "texture:234257-1fab029f-9490-49f3-ab12-67b98ecd41d0",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5865bfd07c0d48c37c8f3c6e77a214c9",
+  "assetLocator": "textures/BIRTHDAY.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5865bfd07c0d48c37c8f3c6e77a214c9",
+      "colorCount": 9748,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.7145218043300345,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
